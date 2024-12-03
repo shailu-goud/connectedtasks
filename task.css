@@ -1,0 +1,33 @@
+.a {
+    background-color: aqua;
+    display: inline-block;
+    width: 300px;
+}
+
+.b {
+    background-color: lightblue;
+    display: inline-block;
+    width: 300px;
+}
+
+.c {
+    background-color: lightcoral;
+    display: inline-block;
+    width: 300px;
+}
+
+.d {
+    background-color: lawngreen;
+}
+
+.a,
+.b,
+.c,
+.d {
+    color: white;
+    padding: 10px;
+
+    margin: 15px;
+    border: 2px solid black;
+
+}
